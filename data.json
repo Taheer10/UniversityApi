@@ -1,26 +1,26 @@
 {
-    "universities":
-    [
-        {
-            "id":"1",
-            "name":"Columbia",
-            "location": "Canada",
-            "collegelink": "https://www.acu.edu.au/"
-           },
+  "universities": [
+    {
+      "id": "1",
+      "name": "University of Tasmania",
+      "location": "Hobart TAS, Australia",
+      "collegelink": "https://www.utas.edu.au/",
+      "about us": "Tasmania is an island of creative and curious minds. No matter where you join us from, you’ll become part of a welcoming and collaborative community."
+    },
 
-           {
-            "id":"2",
-            "name":"Canberraa",
-            "location": "Australia",
-            "collegelink": "https://www.torrens-international.com/"
-           },
-           {
-            "id":"3",
-            "name":"Stanford",
-            "location": "USA",
-            "collegelink": "https://www.griffith.edu.au/"
-           }
-    ]
-  
-   
+    {
+      "id": "2",
+      "name": "Clinton Institute",
+      "location": "Hobart TAS, Australia",
+      "collegelink": "https://clinton.edu.au/",
+      "about us": "Clinton Institute is a fast growing Registered Training Organisation (RTO) with campuses in Melbourne and Hobart"
+    },
+    {
+      "id": "3",
+      "name": "The Institute of Tafe Tasmania Tastafe",
+      "location": "USA",
+      "collegelink": "https://www.tastafe.tas.edu.au/",
+      "about us": "TasTAFE is a not-for-profit government business that operates under the TasTAFE (Skills and Training Business) Act 2021."
+    }
+  ]
 }
