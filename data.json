@@ -1,0 +1,23 @@
+{
+    "universities":
+    [
+        {
+            "id":"1",
+            "name":"Columbia",
+            "location": "Canada"
+           },
+
+           {
+            "id":"2",
+            "name":"Canberra",
+            "location": "Australia"
+           },
+           {
+            "id":"3",
+            "name":"Stanford",
+            "location": "USA"
+           }
+    ]
+  
+   
+}
