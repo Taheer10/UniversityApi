@@ -1,8 +1,9 @@
 {
   "universities": [
     {
-      "id": "1",
-      "name": "University of Tasmania",
+      "universityid": "1",
+      "universityname": "University of Tasmania",
+      "duration": "3-4 years",
       "location": "Hobart TAS, Australia",
       "collegelink": "https://www.utas.edu.au/",
       "about us": "Tasmania is an island of creative and curious minds. No matter where you join us from, you’ll become part of a welcoming and collaborative community."
@@ -11,6 +12,7 @@
     {
       "id": "2",
       "name": "Clinton Institute",
+      "duration": "3-4 years",
       "location": "Hobart TAS, Australia",
       "collegelink": "https://clinton.edu.au/",
       "about us": "Clinton Institute is a fast growing Registered Training Organisation (RTO) with campuses in Melbourne and Hobart"
@@ -18,9 +20,204 @@
     {
       "id": "3",
       "name": "The Institute of Tafe Tasmania Tastafe",
+      "duration": "3-4 years",
       "location": "USA",
       "collegelink": "https://www.tastafe.tas.edu.au/",
       "about us": "TasTAFE is a not-for-profit government business that operates under the TasTAFE (Skills and Training Business) Act 2021."
+    },
+    {
+      "id": "4",
+      "name": "The University of Sydney",
+      "duration": "3-4 years",
+      "location": "Sydney, NSW, Australia",
+      "collegelink": "https://www.sydney.edu.au/",
+      "about us": "We’ve been challenging traditions for almost 170 years"
+    },
+    {
+      "id": "5",
+      "name": "The University of New South Wales",
+      "duration": "3-4 years",
+      "location": "Kensington, Sydney, Australia",
+      "collegelink": "https://www.unsw.edu.au/",
+      "about us": "Since our foundation in 1949, UNSW Sydney has made an ongoing commitment to improve and transform lives in Australia and globally."
+    },
+    {
+      "id": "6",
+      "name": "University of technology sydney",
+      "duration": "3-4 years",
+      "location": "Ultimo NSW 2007, Australia",
+      "collegelink": "https://www.uts.edu.au/",
+      "about us": " A public research university located in Sydney, New South Wales, Australia"
+    },
+    {
+      "id": "7",
+      "name": "Macquarie university",
+      "duration": "3-4 years",
+      "location": "Balaclava Rd, Macquarie Park NSW 2109, Australia",
+      "collegelink": "https://www.mq.edu.au/",
+      "about us": "Macquarie University was established in 1964 as a bold experiment in higher education"
+    },
+    {
+      "id": "8",
+      "name": "Western sydney university",
+      "duration": "3-4 years",
+      "location": "Sydney NSW, Australia",
+      "collegelink": "https://www.westernsydney.edu.au/",
+      "about us": "Better Learning place for higher education"
+    },
+    {
+      "id": "9",
+      "name": "The University of Notre Dame Australia",
+      "duration": "3-4 years",
+      "location": "32 Mouat St, Fremantle WA 6160, Australia",
+      "collegelink": "https://www.notredame.edu.au/",
+      "about us": "Notre Dame is a private Catholic University, extending from the West Coast of Australia in the beautiful and historic City of Fremantle."
+    },
+    {
+      "id": "10",
+      "name": "Curtin University",
+      "duration": "3-4 years",
+      "location": "Kent St, Bentley WA 6102, Australia",
+      "collegelink": "https://www.curtin.edu.au/",
+      "about us": "Curtin has successfully built an international reputation for research excellence, with 95 per cent of research ranked at world standard or above."
+    },
+    {
+      "id": "11",
+      "name": "Murdoch university",
+      "duration": "3-4 years",
+      "location": "Perth, Australia",
+      "collegelink": "https://www.murdoch.edu.au/",
+      "about us": " Murdoch University is situated on the lands of the Whadjuk and Binjareb Noongar people. We pay our respects to their enduring and dynamic culture and the leadership of Noongar elders past and present."
+    },
+    {
+      "id": "12",
+      "name": "The University of Melbourne",
+      "duration": "3-4 years",
+      "location": "Parkville VIC 3010, Australia",
+      "collegelink": "https://www.unimelb.edu.au/",
+      "about us": "The University of Melbourne is equipped with state-of-the art campuses."
+    },
+    {
+      "id": "13",
+      "name": "RMIT University",
+      "duration": "3-4 years",
+      "location": "124 La Trobe St, Melbourne VIC 3000, Australia",
+      "collegelink": "https://www.rmit.edu.au/",
+      "about us": " RMIT University respectfully acknowledges their Ancestors and Elders, past and present."
+    },
+    {
+      "id": "14",
+      "name": "Monash University",
+      "duration": "3-4 years",
+      "location": " Melbourne, Australia",
+      "collegelink": "https://www.monash.edu/",
+      "about us": "Focus Monash lays out the goals and priorities for Monash University for the next five years."
+    },
+    {
+      "id": "15",
+      "name": "university of queensland",
+      "duration": "3-4 years",
+      "location": "St Lucia QLD 4072, Australia",
+      "collegelink": "https://uq.edu.au/",
+      "about us": "Ranked in the world's top 50, The University of Queensland is one of Australia's leading research and teaching institutions."
+    },
+    {
+      "id": "16",
+      "name": "Queensland University of Technology",
+      "duration": "3-4 years",
+      "location": "2 George St, Brisbane City QLD 4000, Australia",
+      "collegelink": "https://www.qut.edu.au/",
+      "about us": "Queensland University of Technology (QUT) is a major Australian university with a truly global outlook."
+    },
+    {
+      "id": "17",
+      "name": "Griffith University",
+      "duration": "3-4 years",
+      "location": " Brisbane, Australia",
+      "collegelink": "https://www.griffith.edu.au/",
+      "about us": "A leading university for international students"
+    },
+    {
+      "id": "18",
+      "name": "The University of Adelaide",
+      "duration": "3-4 years",
+      "location": "Adelaide SA 5005, Australia",
+      "collegelink": "https://www.adelaide.edu.au/",
+      "about us": "Our researchers’ relentless pursuit of new knowledge underpins our every achievement."
+    },
+    {
+      "id": "19",
+      "name": "University of south australia",
+      "duration": "3-4 years",
+      "location": "Adelaide, Australia",
+      "collegelink": "https://www.unisa.edu.au/",
+      "about us": "Helps to build a better future."
+    },
+    {
+      "id": "20",
+      "name": "Flinders university",
+      "duration": "3-4 years",
+      "location": "Sturt Rd, Bedford Park SA 5042, Australia",
+      "collegelink": "https://www.flinders.edu.au/",
+      "about us": "Inspiration leads to innovation. But innovation is more than just a buzzword at Flinders."
+    }
+  ],
+
+  "facultysection": [
+    {
+      "facultyid": "1",
+      "faculty": "Computer Science and Texhnology"
+    },
+    {
+      "facultyid": "2",
+      "faculty": "Engineering and Technology"
+    },
+    {
+      "facultyid": "1",
+      "faculty": "Business and Management"
+    }
+  ],
+
+  "coursesection": [
+    {
+      "courseid": "1",
+      "coursename": "Artifical Intelligence"
+    },
+    {
+      "courseid": "2",
+      "coursename": "Computer Science"
+    },
+    {
+      "courseid": "3",
+      "coursename": "Software Development"
+    },
+    {
+      "courseid": "4",
+      "coursename": "Web Development"
+    },
+    {
+      "courseid": "5",
+      "coursename": "Frontend Development"
+    },
+    {
+      "courseid": "6",
+      "coursename": "Games Animation"
+    },
+    {
+      "courseid": "7",
+      "coursename": "Information and Communications Technology"
+    },
+    {
+      "courseid": "8",
+      "coursename": "Video Game Design and Development"
+    },
+    {
+      "courseid": "9",
+      "coursename": "Software Engineering (Artificial Intelligence)"
+    },
+    {
+      "courseid": "10",
+      "coursename": "Computer Science (Digital Systems Security)"
     }
   ]
 }
